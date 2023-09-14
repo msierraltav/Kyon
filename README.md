@@ -11,11 +11,15 @@ This template should help get you started developing with Tauri, React and Types
 
 ## WTF!
 
+don't forget 'npm install
+
+then...
+
 to run the app you need to write "npm run tauri dev"
 
 maybe is a missconfiguration.
 
-but!
+but...
 is working
 
 ## Why Kyon?
